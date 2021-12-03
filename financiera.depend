@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1637929260 source:c:\users\renzo\onedrive\documentos\programacion\c\preparacionprogramacion\parcialchoreado\financiera\bibliotecapersonal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bibilotecaPersonal.h"
+
+1637929507 c:\users\renzo\onedrive\documentos\programacion\c\preparacionprogramacion\parcialchoreado\financiera\bibilotecapersonal.h
+
+1638490462 source:c:\users\renzo\onedrive\documentos\programacion\c\preparacionprogramacion\parcialchoreado\financiera\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"clientes.h"
+	"prestamo.h"
+	"informes.h"
+
+1638489117 source:c:\users\renzo\onedrive\documentos\programacion\c\preparacionprogramacion\parcialchoreado\financiera\prestamo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"clientes.h"
+	"bibilotecaPersonal.h"
+	"prestamo.h"
+
+1638487405 c:\users\renzo\onedrive\documentos\programacion\c\preparacionprogramacion\parcialchoreado\financiera\prestamo.h
+
+1638488341 source:c:\users\renzo\onedrive\documentos\programacion\c\preparacionprogramacion\parcialchoreado\financiera\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"clientes.h"
+	"bibilotecaPersonal.h"
+
+1638484610 c:\users\renzo\onedrive\documentos\programacion\c\preparacionprogramacion\parcialchoreado\financiera\clientes.h
+
+1638490604 source:c:\users\renzo\onedrive\documentos\programacion\c\preparacionprogramacion\parcialchoreado\financiera\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"informes.h"
+	"bibilotecaPersonal.h"
+
+1638490180 c:\users\renzo\onedrive\documentos\programacion\c\preparacionprogramacion\parcialchoreado\financiera\informes.h
+	"clientes.h"
+	"prestamo.h"
+
